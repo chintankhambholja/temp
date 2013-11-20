@@ -27,7 +27,7 @@
  */
 
 /************************** PRIVATE VARIABLES *************************/
-uint8_t menu1[] = "Hello Edutech \n\r";
+uint8_t menu1[] = "Hello Chintan \n\r";
 uint8_t menu2[] = "UART polling mode demo \n\r\t MCU LPC17xx - ARM Cortex-M3\n\r";
 uint8_t menu3[] = "UART demo terminated!";
 
